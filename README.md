@@ -15,6 +15,13 @@ Toggle switches, watch octal and symbolic notation update instantly, copy the co
 
 ---
 
+<p align="center">
+  <img src="screenshots/light.png" alt="chmod calculator — light theme" width="49%">
+  <img src="screenshots/dark.png" alt="chmod calculator — dark theme" width="49%">
+</p>
+
+---
+
 ## ✨ Features
 
 | | |
@@ -33,8 +40,8 @@ Toggle switches, watch octal and symbolic notation update instantly, copy the co
 No build step, no server required.
 
 ```bash
-git clone https://github.com/niruxx/chmod-utility.git
-cd chmod-utility
+git clone https://github.com/niruxx/Linux-Attributes-Calculator.git
+cd Linux-Attributes-Calculator
 ```
 
 Then just open `index.html` in a browser — or serve it if you prefer:
